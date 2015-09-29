@@ -1,1 +1,226 @@
 /* CSS declarations go here */
+*{
+  margin:0;
+  padding:0;
+}
+
+body{
+  background-color:#F2F8FF;
+}
+
+.page{
+  margin:30px auto;
+  width:700px;
+  height:800px;
+  background-color:white;
+  border-radius:5px;
+}
+
+.container{
+  position:relative;
+  left:50px;
+  top:50px;
+  width:600px;
+  height:700px;
+  /*background-color:#996633;*/
+  
+}
+
+
+
+.header{
+  height:100px;
+  /*background-color:#0099CC;*/
+  
+}
+
+.content{
+  margin-top:1em;
+  height:450px;
+  /*background-color:#FF6666;*/
+  
+}
+
+
+#review{
+  font-size:2em;
+  text-indent:0.2em;
+  
+}
+
+#vacabulary{
+  text-indent:0.2em;
+  float:left;
+  font-family: "Dancing Script", cursive;
+  font-size:1.2em;
+}
+
+#exercise{
+  float:right;
+}
+
+.headerFoot{
+  padding-top:0.8em;
+}
+
+HR{
+  clear:both;
+ 
+}
+
+.image img{
+  width:100%;
+}
+
+#contentImage{
+  float:left;
+  width:120px;
+  height:120px;
+  /*background-color:#FFFFFF;*/
+}
+
+#contentImage img{
+  border-radius:50%;
+  margin:20px 30px;
+}
+
+.sentence p{
+  font-size:1.5em;
+  margin-top:0.8em;
+}
+
+#contentP{
+  height:90px;
+  /*background-color:#222222;*/
+  padding-top:30px;
+}
+
+#contentP p{
+  font-size:1.5em;
+}
+
+span{
+  color:#00CCCC;
+}
+
+.foot button{
+  display:block;
+  width:300px;
+  margin:30px auto;
+  background-color:#FF6F7E;
+  height:100px;
+  border-radius:3%;
+  font-size:1.5em;
+  color:white;
+}
+
+
+#review,#vacabulary,#hr1{
+  color:#26ADD7;
+}
+
+#hr2{
+  margin-top:0.6em;
+}
+
+p{
+  color:#8F8F8F;
+}
+
+
+
+
+
+/*.footButton button{
+  height:50px;
+  width:150px;
+  margin:25px 25px;
+  font-size:1em;
+}*/
+
+
+/*.full{
+  margin:0 25% 0 25%;
+  
+}
+
+.contentTop img{
+  position:relative;
+  left:10%;
+  width:80%;
+  
+  
+}
+
+.contentTop p{
+ font-family:cuisive; 
+}
+
+span{
+  font-weight:normal;
+  color:#00CCCC;
+  font-size:2em;
+  font-family:Tahoma,Arial,"Helvetica Neue","Hiragino Sans GB",Simsun,sans-serif;
+}
+#topLeft p{
+  font-family:Tahoma;
+}
+
+
+
+#topLeft{
+  float:left;
+  
+}
+
+#topRight{
+  float:right;
+
+}
+
+
+HR{
+  clear:both;
+}
+
+.contentExercise img{
+  width:2em;
+  float:left;
+}
+
+
+
+.contentFoot{
+  clear:left;
+}
+
+.container{
+  background-color:#FFFFCC;
+}
+
+
+
+
+.contentFoot{
+  
+  background-color:green;
+}
+
+.contentFoot button{
+  
+  width:200px;
+  height:50px;
+  margin:0 auto;
+  background-color:#FF6699;
+}
+
+.contentFoot button p{
+  font-size:1.2em;
+  color:#FFFFFF;
+}*/
+
+
+
+
+
+
